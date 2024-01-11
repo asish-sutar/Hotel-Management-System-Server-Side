@@ -4,7 +4,7 @@ import jakarta.validation.constraints.NotBlank;
 import lombok.Data;
 
 /**
- * @author Simpson Alfred
+ * @author Asish Sutar
  */
 @Data
 public class LoginRequest {
