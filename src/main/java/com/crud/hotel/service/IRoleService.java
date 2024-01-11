@@ -6,7 +6,7 @@ import com.crud.hotel.model.Role;
 import com.crud.hotel.model.User;
 
 /**
- * @author Simpson Alfred
+ * @author Asish Sutar
  */
 
 public interface IRoleService {
