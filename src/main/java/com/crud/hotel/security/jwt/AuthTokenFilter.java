@@ -20,7 +20,7 @@ import com.crud.hotel.security.user.HotelUserDetailsService;
 import java.io.IOException;
 
 /**
- * @author Simpson Alfred
+ * @author Asish Sutar
  */
 
 public class AuthTokenFilter extends OncePerRequestFilter {
