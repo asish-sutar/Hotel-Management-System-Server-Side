@@ -7,7 +7,7 @@ import com.crud.hotel.model.User;
 import java.util.Optional;
 
 /**
- * @author Simpson Alfred
+ * @author Asish Sutar
  */
 
 public interface UserRepository extends JpaRepository<User, Long> {
