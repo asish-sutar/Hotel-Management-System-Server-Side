@@ -21,7 +21,7 @@ import org.springframework.security.web.authentication.UsernamePasswordAuthentic
 
 
 /**
- * @author Simpson Alfred
+ * @author Asish Sutar
  */
 @Configuration
 @RequiredArgsConstructor
