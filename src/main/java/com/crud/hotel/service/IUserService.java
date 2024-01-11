@@ -5,7 +5,7 @@ import java.util.List;
 import com.crud.hotel.model.User;
 
 /**
- * @author Simpson Alfred
+ * @author Asish Sutar
  */
 
 public interface IUserService {
