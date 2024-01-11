@@ -7,7 +7,7 @@ import com.crud.hotel.model.Role;
 import java.util.Optional;
 
 /**
- * @author Simpson Alfred
+ * @author Asish Sutar
  */
 
 public interface RoleRepository extends JpaRepository<Role, Long> {
