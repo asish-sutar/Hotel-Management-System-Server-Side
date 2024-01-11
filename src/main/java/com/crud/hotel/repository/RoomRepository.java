@@ -9,7 +9,7 @@ import java.time.LocalDate;
 import java.util.List;
 
 /**
- * @author Simpson Alfred
+ * @author Asish Sutar
  */
 
 public interface RoomRepository extends JpaRepository<Room, Long> {
