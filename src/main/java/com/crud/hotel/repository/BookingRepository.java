@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.Optional;
 
 /**
- * @author Simpson Alfred
+ * @author Asish Sutar
  */
 
 public interface BookingRepository extends JpaRepository<BookedRoom, Long> {
