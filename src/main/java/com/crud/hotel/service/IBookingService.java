@@ -5,7 +5,7 @@ import java.util.List;
 import com.crud.hotel.model.BookedRoom;
 
 /**
- * @author Simpson Alfred
+ * @author Asish Sutar
  */
 
 public interface IBookingService {
