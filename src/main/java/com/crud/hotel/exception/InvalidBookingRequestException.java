@@ -1,7 +1,7 @@
 package com.crud.hotel.exception;
 
 /**
- * @author Simpson Alfred
+ * @author Asish Sutar
  */
 
 public class InvalidBookingRequestException extends RuntimeException {
